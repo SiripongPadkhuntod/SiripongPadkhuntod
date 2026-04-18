@@ -18,7 +18,7 @@ Thyme is continuously expanding his knowledge in backend architecture, microserv
 
 ### Backend Development
 
-- Golang (Gin, Fiber, Echo)
+- Golang (Gin)
 - Java Backend Development
 - Node.js API Development
 - REST API Design
