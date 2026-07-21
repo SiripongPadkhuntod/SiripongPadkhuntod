@@ -1,123 +1,84 @@
 # Siripong Padkhuntod (Thyme)
 
-**Junior Software Developer | Backend, Full-Stack Web Development, and Enterprise Systems (ERP)**
+**Junior Backend Developer | Go · REST APIs · PostgreSQL · Docker**
 
----
+I am a software developer focused on backend engineering and business-oriented systems. My professional experience includes enterprise ERP customization with Oracle NetSuite, backend logic, workflow automation, and external system integrations.
 
-## Professional Summary
+I am currently strengthening my Go backend skills by building APIs and full-stack projects that explore data integrity, authentication, concurrency, observability, and maintainable architecture.
 
-Siripong Padkhuntod (Thyme) is a Junior Software Developer with a strong interest in backend engineering, enterprise software systems, and scalable web application development. His work focuses on building reliable backend services, designing clean API structures, and developing maintainable systems that support real-world business operations.
+## Selected Projects
 
-He has hands-on experience working with enterprise platforms, particularly Oracle NetSuite, where he develops and customizes ERP functionality including business workflows, backend logic, and integrations with external systems.
+### [Multi-Branch Inventory & POS System](https://github.com/SiripongPadkhuntod/Multi-Branch-Inventory-POS-System)
 
-Thyme is continuously expanding his knowledge in backend architecture, microservices, distributed systems, and API platform development while gaining practical experience building production-oriented applications and internal business tools.
+A business-focused POS and inventory system built with Go, Gin, PostgreSQL, Next.js, and Docker.
 
----
+- Branch-aware roles and permissions
+- JWT authentication and refresh-token flow
+- Transaction-safe stock adjustments and sales
+- Inventory movements, transfers, refunds, and audit logs
+- PostgreSQL constraints, indexes, migrations, and row-level locking
+
+### [RSU Booking System](https://github.com/SiripongPadkhuntod/BookingSystem)
+
+A room and seat booking application built with Go, Gin, PostgreSQL, and Next.js.
+
+- Role-based administration
+- Interactive room and seat maps
+- Database-level protection against overlapping reservations
+- Responsive Thai/English interface
+- Docker-based local environment
+
+### [LocalStream — WebRTC Broadcasting Lab](https://github.com/SiripongPadkhuntod/LiveSteam-WebRTC)
+
+An experimental local-network broadcasting project for learning real-time media systems.
+
+- Go control API and RTP bridge
+- LiveKit SFUs, WebRTC, Redis, and Next.js
+- Multi-source camera and microphone workflows
+- Scene control and real-time program monitoring
+- Docker Compose development environment
+
+> LocalStream is a learning and development project, not a production-ready broadcasting platform.
 
 ## Technical Skills
 
-### Backend Development
+**Primary focus**
 
-- Golang (Gin)
-- Java Backend Development
-- Node.js API Development
-- REST API Design
-- Microservice-based Architecture
+- Go, Gin, REST API development
+- PostgreSQL, MySQL, SQL schema design
+- Authentication, authorization, and business logic
+- Docker, Git, Swagger/OpenAPI, Postman
 
-### Enterprise Systems (ERP)
+**Working knowledge**
 
-- Oracle NetSuite (SuiteScript 2.x / 2.1)
+- Node.js, Express, NestJS, Java
+- TypeScript, React, Next.js
+- Redis, MinIO, GitHub Actions
 
-ERP Development Experience:
+**Enterprise systems**
 
-- Suitelet
-- RESTlet
-- User Event Scripts
-- Map/Reduce Scripts
-- Client Scripts
-- Custom Forms and Workflows
-- Saved Searches
+- Oracle NetSuite
+- SuiteScript 2.x / 2.1
+- Suitelet, RESTlet, User Event, Map/Reduce, and Client Scripts
+- Saved Searches, custom forms, workflows, and external integrations
 
-### System Integration
+## How I Work
 
-- External System Integration
-- Business Logic Implementation
-- API-based Service Communication
-- Backend Performance Optimization
+- Translate business workflows and user needs into APIs, data models, and practical features
+- Break complex problems into smaller, testable changes and improve them iteratively
+- Document project setup, architecture decisions, trade-offs, and known limitations
+- Investigate issues through logs, metrics, debugging, and reproducible test cases
+- Welcome code review and use feedback to refine both implementation and understanding
+- Adapt between enterprise ERP systems and modern backend technologies
 
----
+## Currently Strengthening
 
-## Frontend Development
-
-- React.js
-- Modern JavaScript (ES6+)
-- HTML5
-- CSS3
-- API-driven Web Applications
-- Responsive Web Interface Development
-
----
-
-## DevOps and Development Tools
-
-- Docker
-- Jenkins (CI/CD)
-- Git and GitHub Workflow
-- Postman (API Testing)
-- Debugging and Performance Analysis
-
----
-
-## Databases
-
-- MySQL
-- PostgreSQL
-- MongoDB
-
-Database related experience includes:
-
-- Database schema design
-- Query optimization
-- Data modeling
-
----
-
-## Additional Technologies
-
-- Flutter (Cross-platform mobile development)
-- Arduino (IoT and embedded systems)
-- Figma (UI/UX design and prototyping)
-
----
-
-## Areas of Experience
-
-- Backend API development for web applications
-- ERP customization and workflow automation
-- Integration between ERP systems and external services
-- Designing maintainable backend services for business processes
-- Developing internal tools to support operational workflows
-
----
-
-## Engineering Interests
-
-- Backend System Architecture
-- Enterprise Software Development
-- ERP Systems and Business Automation
-- Distributed Systems
-- API Platform Development
-- Scalable System Design
-
----
+- Idiomatic Go, interfaces, context, error handling, and concurrency
+- Unit and integration testing
+- SQL transactions, locking, indexing, and query performance
+- API security, observability, and production troubleshooting
 
 ## Contact
 
-LinkedIn  
-https://www.linkedin.com/in/siripong-padkhuntod-aa57902b1/
-
-Email  
-stopsiripong@gmail.com
-
-GitHub  
-https://github.com/SiripongPadkhuntod
+- [LinkedIn](https://www.linkedin.com/in/siripong-padkhuntod-aa57902b1/)
+- [Email](mailto:stopsiripong@gmail.com)
